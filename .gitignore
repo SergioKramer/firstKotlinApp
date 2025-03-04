@@ -1,0 +1,9 @@
+/.gradle/
+/.kotlin/
+!/gradle/
+**/build/
+!**/src/**/build/
+
+/.idea/
+/.gigaide/
+**/.iml
