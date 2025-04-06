@@ -10,5 +10,5 @@ plugins {
 
 rootProject.name = "firstKotlinApp"
 
-include("m1l1-first")
-
+includeBuild("lessons")
+includeBuild("project-backend")

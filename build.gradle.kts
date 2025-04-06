@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") apply false
 }
 
-group = "ru.getting.lucky"
+group = "ru.otus.kramer"
 version = "0.1"
 
 allprojects {
