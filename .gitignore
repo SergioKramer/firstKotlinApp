@@ -3,7 +3,7 @@
 !/gradle/
 **/build/
 !**/src/**/build/
-
+**/.gradle/
 /.idea/
 /.gigaide/
 **/.iml
